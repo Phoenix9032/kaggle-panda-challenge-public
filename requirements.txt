@@ -4,7 +4,7 @@ catboost==0.12.2
 pandas==0.25.0
 scipy==1.4.1
 tensorflow==2.1.0
-torch==1.1.0
+torch==2.9.0
 matplotlib==3.0.3
 tqdm==4.30.0
 albumentations==0.4.3
